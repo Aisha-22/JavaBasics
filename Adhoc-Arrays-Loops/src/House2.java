@@ -7,7 +7,7 @@ public class House2 {
     public Double squareMeters;
     public int garages;
 
-    // Create a class constructor for the House2 class
+    // Create a class constructor ( for the House2 class
     public House2(String numOfBedrooms, String typeOfHouse, String numOfBathrooms, Double sqMeters, int carPorts) {
         // Set the initial value for the class attributes
         this.numberOfBedrooms = numOfBedrooms;
